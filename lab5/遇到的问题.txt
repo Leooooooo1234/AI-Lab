@@ -1,0 +1,2 @@
+一. huggingface无法连接的问题
+we couldn't connect to 'https://huggingface.co' to load this file, couldn't find it in the cached files and it looks like xlm-roberta-base is not the path to a directory containing a file named config.jason. Checkout your internet connection or see how to run the library in offline mode at 'https://huggingface.co/docs/tranformers/installation#offline-mode'.
